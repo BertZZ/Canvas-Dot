@@ -2,15 +2,16 @@
 A small little program mostly cobbled together as Canvas practice for my final project at Makers Academy, however I liked it so much that I wanted to keep it somewhere. Clone it into a new folder on your machine and play around with the code, I will detail what parts of the code to change to achieve different results in the Readme bellow. If you create something cool feel free to share it with me.
 
 #Quick Start
-Clone the repository to a new folder on your machine. Then type open test.html into the command line whist inside the new folder, this will open your default browser with a new tab displaying the canvas. 
+Clone the repository to a new folder on your machine. Then type open test.html into the command line whist inside the new folder, this will open your default browser with a new tab displaying the canvas.
 
 ## Ball Mode
 To use Ball mode, ensure that the code on line 19 of code.js is uncommented (default). This will give you a dot that changes colour when it hits the edges of the canvas.
 
 ## Art Mode
-To use Art Mode, Comment out line 19 in the code.js file. This will stop the canvas from refreshing and leave the trail from the ball behind, as the ball still randomly changes colour you can get really cool looking Geometric art as such.
+To use Art Mode, Comment out line 19 in the code.js file. This will stop the canvas from refreshing and leave the trail from the ball behind, as the ball still randomly changes colour you can get really cool looking Geometric art such as:
 
-INSERT IMAGE OF ART.
+<img width="968" alt="screen shot 2017-06-19 at 18 57 49" src="https://user-images.githubusercontent.com/26028408/27298639-616389de-5521-11e7-8bc3-b42e84ebd919.png">
+
 
 As the colours are random each piece of art is unique.
 
